@@ -1,0 +1,7 @@
+{
+  "name": "Skill U Learning App- AI Educational Platform",
+  "description": "A comprehensive educational institute platform with Admin, Teacher, and Student roles, featuring AI-driven performance tracking and a study assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
